@@ -4,5 +4,5 @@ minimization for H atomes
     cut=10.0,
     ntpr=500,ntwr=500,
     ntb=1,
-    ntr=1,restraintmask=':2-168,170-171,173-651,654-820,822-823@N,CA,O,C',restraint_wt=100.0,
+    ntr=1,restraintmask=':2-168,170-172,174-652,655-821,823-824@N,CA,C,O',restraint_wt=100.0,
   &end
