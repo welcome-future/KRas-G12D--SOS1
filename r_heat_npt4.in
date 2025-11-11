@@ -7,5 +7,5 @@ production for complex
    ntt=3,gamma_ln=2.0,tempi=300.0,temp0=300.0,
    ntpr=5000,ntwr=5000,ntwx=5000,
    cut=10.0,
-   ntwprt=13421,
+   ntwprt=13363,
  &end
